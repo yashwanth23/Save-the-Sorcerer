@@ -1,0 +1,2 @@
+# Save-the-Sorcerer
+This is a first person shooter game developed for both PC and Virtual Reality. This game is inspired from the Harry potter movie and the world of wizardry. This game makes use of IBM Watson's speech to text SDK in Unity to cast spells on the enemies. Voice commands are used to attack the enemies and movement is through controlled or keyboard. The spells were inspired from the Harry potter movie. 
